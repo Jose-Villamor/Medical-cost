@@ -1,4 +1,4 @@
 # Medical-cost
 
 
-https://medical-cost.herokuapp.com/
+Access the web app: https://medical-cost.herokuapp.com/
