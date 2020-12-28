@@ -53,7 +53,7 @@ def main():
 
 
     st.write('This app provides an estimation of total medical cost using a xgboost model. Select the corresponding variables and click predict to obtain a result. Be aware that this is a project for portofolio purposes so the outcome is not truly real just an approximation.')
-    st.write("If you want to know more about the project or others that i have done visit my github account: https://github.com/Jose-Villamor/Kaggle-Notebooks")
+    st.write("If you want to know more about the project or others that i have done visit my github account: https://github.com/Jose-Villamor?tab=repositories")
 
     age = st.number_input("Age (From 18 to 64)", value=18.0, step=1.0, min_value=18.0, max_value=64.0)
     sex = st.selectbox("Sex", ("Male",  "Female"))
